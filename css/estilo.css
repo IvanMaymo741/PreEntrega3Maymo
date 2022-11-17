@@ -59,6 +59,10 @@ div {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
+#menu {
+  border-bottom: 20px solid white;
+}
+
 /* IMAGENES */
 #catalogo:hover {
   border: 1px solid white;

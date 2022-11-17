@@ -67,7 +67,9 @@ a {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   
-  
+  #menu{
+    border-bottom: 20px solid $color-catalogo;
+  }
   
   /* IMAGENES */
   #catalogo:hover{
